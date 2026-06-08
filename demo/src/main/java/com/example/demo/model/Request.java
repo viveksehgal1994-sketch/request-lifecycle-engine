@@ -1,4 +1,4 @@
-package com.example.demo.model.Request;
+package com.example.demo.model;
 
 import com.example.demo.model.enums.Priority;
 import com.example.demo.model.enums.Status;
